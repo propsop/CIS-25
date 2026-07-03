@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Function, Header Files and Loops/Function, Header Files and Loops.vcxproj" />
+</Solution>
