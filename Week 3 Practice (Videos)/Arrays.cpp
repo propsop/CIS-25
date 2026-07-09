@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    //the [5] specifies the size of the array
+    double rainfall[5];
+
+    rainfall[0] = 2.3;
+    rainfall[1] = 0.3;
+    rainfall[2] = 0.0;
+    rainfall[3] = 4.1;
+    rainfall[4] = 0.5;
+
+    //this is a for loop that sets i to zero and adds 1 i each time until its less than 5
+    for (int i = 0; i < 5; i++)
+    {
+        cout << rainfall[i] << endl;
+    }
+
+    for (int i = 0; i < 5; i++)
+    {
+        cout << "Enter a rainfall amount: " << endl;
+        cin >> rainfall[i];
+    }
+
+    for (int i = 0; i < 5; i++)
+    {
+        cout << rainfall[i] << endl;
+    }
+
+}
