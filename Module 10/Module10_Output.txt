@@ -1,0 +1,6 @@
+constructor called
+ID: 101,Name: Notebook,Price: $4.99
+constructor called
+ID: 102,Name: Pencil,Price: $0.99
+destructor called
+destructor called

@@ -1,0 +1,5 @@
+Constructors can be used to repeat chunks of code with different arguments. They are useful for when you don't want to copy and paste/repeat certain chunks of code when you can instead just use constructors.
+
+Destructors clean up a object when they are deleted.
+
+Class, constructors, and destructors all revolve around creating and reusing code so you don't have to repeat it elsewhere
