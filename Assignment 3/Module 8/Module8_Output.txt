@@ -1,0 +1,151 @@
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 1
+
+Enter Patient ID:
+12345
+Enter Name:
+tyler
+Enter Age:
+18
+Enter Gender:
+male
+Enter Diagnosis:
+flu
+Added Patient
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 2
+
+Patient Records
+
+ID: 12345
+Name: tyler
+Age: 18
+Gender: male
+Diagnosis: flu
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+ID: -842150451
+Name:
+Age: -842150451
+Gender:
+Diagnosis:
+
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 3
+
+Enter patient ID to search : 12345
+
+Patient Found!
+Name: tyler
+Age: 18
+Diagnosis: flu
+
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 4
+
+Enter patient ID to update: 12345
+
+Enter New Diagnosis: flu cured
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 5
+
+Saved Patients to File
+Hospital Patient System
+
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Save Patients
+6. Exit
+
+Enter Choice: 6
+
+Good Bye!
