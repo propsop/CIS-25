@@ -1,0 +1,22 @@
+﻿:::: Scope of Work Document
+
+
+Scope of Work (SOW) -
+Build an application or add a unique twist on a common application. The application can be a game, a business support program, or robot to give a few examples. Projects should focus on creating C++ or Swift applications that utilize long-term data storage.
+Please submit your Scope of Work Document detailing the application you plan to complete.   You last assignment will implement your plan
+Student Project – Scope of Work (SOW)
+Project Title: Tic Tac Toe In C++
+Student Name: Tyler Kim
+Date: 7/16/26
+________________
+
+
+1. Project Overview
+(Write 2–3 sentences about what your project will do.)
+I will try to create a tic tac toe game in c++ that will ask for the names of two players that will type an integer 1-9 that places an X/O on one of the 9 tiles. The game will end when one of the players lines 3 in a row or all of the tiles are filled, in which case the console will say “Player1/Player2 won!” or “Tie”.
+2. Features
+* Separates the inputs into two users
+* Stores Inputted Data
+* Displays a grid with the inputs of the users until the game is won/tied
+* Displays either “Player1/Player2 won!” or “Tie”
+* Replay Feature?
