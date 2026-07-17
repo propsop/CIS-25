@@ -1,0 +1,33 @@
+===== SHOPPING CART MENU =====
+1. Add item to cart
+2. View checkout
+3.Exit
+Choose an option: 1
+Enter item name: apple
+Enter item price 1.99
+Enter item quantity 3
+Item added to cart
+===== SHOPPING CART MENU =====
+1. Add item to cart
+2. View checkout
+3.Exit
+Choose an option: 1
+Enter item name: banana
+Enter item price 2.99
+Enter item quantity 4
+Item added to cart
+===== SHOPPING CART MENU =====
+1. Add item to cart
+2. View checkout
+3.Exit
+Choose an option: 2
+===== CHECKOUT =====
+apple - 1.99 x 3 = 5.97
+banana - 2.99 x 4 = 11.96
+
+===== SHOPPING CART MENU =====
+1. Add item to cart
+2. View checkout
+3.Exit
+Choose an option: 3
+thanks for shopping!
