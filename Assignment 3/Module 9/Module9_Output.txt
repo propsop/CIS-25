@@ -1,0 +1,27 @@
+1.User Access Level
+2.Employee Access Level
+3.Manager Access Level
+4.Admin Access Level
+1
+General Access
+
+1.User Access Level
+2.Employee Access Level
+3.Manager Access Level
+4.Admin Access Level
+2
+Employee Access
+
+1.User Access Level
+2.Employee Access Level
+3.Manager Access Level
+4.Admin Access Level
+3
+Management Access
+
+1.User Access Level
+2.Employee Access Level
+3.Manager Access Level
+4.Admin Access Level
+4
+Admin Access
