@@ -1,0 +1,98 @@
+rank: 1
+name: Wii Sports
+platform: Wii
+year: 2006
+genre: Sports
+publisher: Nintendo
+NA_Sales: 41.49
+EU_Sales: 29.02
+
+rank: 2
+name: Super Mario Bros.
+platform: NES
+year: 1985
+genre: Platform
+publisher: Nintendo
+NA_Sales: 29.08
+EU_Sales: 3.58
+
+rank: 3
+name: Mario Kart Wii
+platform: Wii
+year: 2008
+genre: Racing
+publisher: Nintendo
+NA_Sales: 15.85
+EU_Sales: 12.88
+
+rank: 4
+name: Wii Sports Resort
+platform: Wii
+year: 2009
+genre: Sports
+publisher: Nintendo
+NA_Sales: 15.75
+EU_Sales: 11.01
+
+rank: 5
+name: Pokemon Red/Pokemon Blue
+platform: GB
+year: 1996
+genre: Role-Playing
+publisher: Nintendo
+NA_Sales: 11.27
+EU_Sales: 8.89
+
+rank: 6
+name: Tetris
+platform: GB
+year: 1989
+genre: Puzzle
+publisher: Nintendo
+NA_Sales: 23.2
+EU_Sales: 2.26
+
+rank: 7
+name: New Super Mario Bros.
+platform: DS
+year: 2006
+genre: Platform
+publisher: Nintendo
+NA_Sales: 11.38
+EU_Sales: 9.23
+
+rank: 8
+name: Wii Play
+platform: Wii
+year: 2006
+genre: Misc
+publisher: Nintendo
+NA_Sales: 14.03
+EU_Sales: 9.2
+
+rank: 9
+name: New Super Mario Bros. Wii
+platform: Wii
+year: 2009
+genre: Platform
+publisher: Nintendo
+NA_Sales: 14.59
+EU_Sales: 7.06
+
+rank: 10
+name: Duck Hunt
+platform: NES
+year: 1984
+genre: Shooter
+publisher: Nintendo
+NA_Sales: 26.93
+EU_Sales: 0.63
+
+rank: 11
+name: Nintendogs
+platform: DS
+year: 2005
+genre: Simulation
+publisher: Nintendo
+NA_Sales: 9.07
+EU_Sales: 11
